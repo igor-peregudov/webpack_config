@@ -1,1 +1,1 @@
-Webpack boilerplate with react+redux# webpack_config
+Webpack boilerplate with react+redux
