@@ -1,5 +1,7 @@
-const initialState = {
-};
+/**
+ * App reducers
+ */
+const initialState = {};
 
 const appReducer = (state = initialState, action) => {
     switch (action.type) {
