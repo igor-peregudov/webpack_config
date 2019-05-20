@@ -70,7 +70,7 @@ module.exports = merge(common, {
         }),
         new webpack.ContextReplacementPlugin(
             /moment[\/\\]locale$/,
-            /en|ru-gb/
+            /en-gb|ru/
         ),
     ]
 });
